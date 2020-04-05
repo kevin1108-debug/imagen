@@ -1,0 +1,83 @@
+body header{
+    color:white;
+    background-color: #5b7989;
+	min-height: 100px;
+	width: 100%;
+	text-shadow:2px 3px 4px #02010a;
+	text-align:center;
+	border:0%;
+}
+img{
+	margin:auto;
+	display:block;
+	max-width:70%
+	
+}
+img:hover{
+	transform:scale(0.9);
+}
+img{
+    transition:all 0.5s ease;
+}
+.centro{
+	padding-right:10px;
+	padding-left:10px;
+	display:block;
+	max-width:70%
+}
+.segunda{
+	padding-right:10px;
+	padding-left:10px;
+	max-width:70%
+}
+
+#contenido{
+	background-color: #82c3a6;
+	background-size:cover;
+}
+.main{
+	height:100px;
+	
+	
+}
+#contenido1{
+	background-color: #d5c75f;
+	display: flex;
+	flex-direction: rows;
+	margin:10 px
+}
+}
+h1{
+	text-align:center
+}
+h2{
+	color:red
+}
+footer{
+	color:black;
+	text-align:center;
+	background-color: #C6d5c5;
+}
+
+@font-face {
+  font-family: 'FreeSans';
+  src: url('FreeSans.otf');
+}
+
+h1{
+  font-family: 'FreeSans';
+  font-size: 2em;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.2em;
+}
+
+   
+	
+
+
+	
+	
